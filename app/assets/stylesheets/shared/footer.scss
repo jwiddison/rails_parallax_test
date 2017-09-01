@@ -1,0 +1,21 @@
+/* footer */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  .wrapper {
+    min-height: 100%;
+    margin-bottom: -50px;
+
+    .push {
+      height: 50px;
+    }
+  }
+}
+
+footer {
+  background-color: black;
+  height: 50px;
+}
