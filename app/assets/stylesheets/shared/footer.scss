@@ -16,6 +16,12 @@ body {
 }
 
 footer {
-  background-color: black;
   height: 50px;
+  background-color: $light-grey;
+  color: $dark-grey;
+
+  .copyright {
+    font-size: 15px;
+    margin-top: 13px;
+  }
 }
